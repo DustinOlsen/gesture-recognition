@@ -32,3 +32,9 @@ To understand how this works, please read the blog posts given below.
 - Add basic controls initially (like using gesture to control up/down scrolling, play pause etc)
 
 - Implement an easy-to-use virtual keyboard using gestures
+
+## Update :
+
+Though this method is very innovative, it does not give the necessary accuracy and stability in counting fingers realtime. 
+
+Take a look at this [repository](https://github.com/preethamk2000/hand_tracking) .
